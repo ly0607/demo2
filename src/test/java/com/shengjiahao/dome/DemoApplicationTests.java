@@ -21,8 +21,7 @@ class DemoApplicationTests {
     }
 
     @Test
-    void test01(){
-        System.out.println("2020-10-03  09:13");
-
+    void context(){
+        System.out.println("ly测试");
     }
 }
