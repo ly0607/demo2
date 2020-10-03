@@ -23,5 +23,6 @@ class DemoApplicationTests {
     @Test
     void context(){
         System.out.println("ly测试");
+        System.out.println("ssssssssssssssssssssssssssss");
     }
 }
